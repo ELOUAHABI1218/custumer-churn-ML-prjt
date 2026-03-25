@@ -72,7 +72,4 @@ git clone https://github.com/ELOUAHABI1218/custumer-churn-ML-prjt.git
 cd custumer-churn-ML-prjt
 ##  Run the Streamlit app
 streamlit run app.py
-## Results
-Built a predictive model to identify churn customers
-Created an interactive app for real-time prediction
-Demonstrated a full end-to-end ML pipeline
+
